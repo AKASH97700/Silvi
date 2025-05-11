@@ -16,17 +16,17 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 123456  # integer value, dont use ""
-    API_HASH = "awoo"
-    TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1606221784  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "SOME1HING"
-    SUPPORT_CHAT = "tyranteyeeee"  # Your own group for support, do not add the @
+    API_ID = 9429810  # integer value, dont use ""
+    API_HASH = "06007846a1793a9883596434b299d0ed"
+    TOKEN = "7737679888:AAGWAHt0-eBn1K3Mo9dOKISAhlu4rL0pHU8"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 7039652738  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "Demon_xYONKO"
+    SUPPORT_CHAT = "MaeveBot69"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001432609692
+        -1002350016913
     )  # Prints any new group the bot is added to, prints just the name and ID.
     LOG_CHANNEL = (
-        -1001150905176
+        -1002231034844
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
@@ -74,9 +74,9 @@ class Config(object):
     ARQ_API = "awoo"
     APOD_API_KEY = "awoo"
     REDIS_URL = "awoo"
-    ANIME_NAME = "Shikimori's Not Just a Cutie"
+    ANIME_NAME = "YONKO"
     START_MEDIA = "https://telegra.ph/file/9235d57807362b4e227a3.mp4"
-    BOT_USERNAME = "micchon_shikimori_bot"
+    BOT_USERNAME = "Silvi_xYONKO_BOT"
     UPDATE_CHANNEL = "Shikimori_bot_Updates"
     ALIVE_MEDIA = "https://telegra.ph/file/2b04f7812f22b983f8a10.mp4"
     BOT_ID = 5169508699
